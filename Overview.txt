@@ -1,0 +1,40 @@
+The Elaborate Blog dedicated to this project can be found here - 
+https://iamshamikb.wordpress.com/2020/11/19/a-solution-to-kaggle-m5-forecasting-accuracycompetition/
+
+In case the link do not work simply visit the site - iamshamikb.wordpress.com
+
+The Code is also available on GitHub here - https://github.com/iamshamikb/M5-Forecasting-Accuracy (https://github.com/iamshamikb/M5-Forecasting-Accuracy)
+
+'''
+Model Performances
+
+# Models and scores
+# Total no of submissions this competition has got is 5558
+#           Private   Public   Private_Rank   In_top_private%    Public_rank      Public_top%
+# ML models
+# 'M0.1' :  5.09      5.16
+# 'M0.2' :  2.67      2.84
+
+# 'M3.1' :  0.91      0.86     1980            35.62%
+# 'M3.2' :  0.91      0.94
+# 'M3.3' :  0.85      0.91
+# 'M3.4' :  0.89      0.94
+# 'M3.5' :  0.94      0.86
+# 'M3.6' :  0.87      0.88
+
+# 'M4.1' :  4.90      4.99
+# 'M4.2' :  4.90      5.29
+
+# 'M5.1' :  0.84      1.26      
+# 'M5.2' :  0.95      1.11
+# 'M5.3' :  5.05      4.93
+
+# 'M7.5' :  0.75      0.83      865             15%                4347                78%
+
+# Neural network models
+# NN M3  :  1.12      0.99
+# NN M4  :  0.82      1.21      1933            34%
+# NN M5  :  1.90      1.70
+# NN M6  :  3.58      4.30
+
+'''
