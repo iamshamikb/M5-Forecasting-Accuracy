@@ -1,9 +1,9 @@
 The Elaborate Blog dedicated to this project can be found here - 
-https://iamshamikb.wordpress.com/2020/11/19/a-solution-to-kaggle-m5-forecasting-accuracycompetition/
+https://iamshamikb.wordpress.com/2020/11/22/a-solution-to-kaggle-m5-forecasting-accuracy-competition-2/
 
 In case the link do not work simply visit the site - iamshamikb.wordpress.com
 
-The Code is also available on GitHub here - https://github.com/iamshamikb/M5-Forecasting-Accuracy (https://github.com/iamshamikb/M5-Forecasting-Accuracy)
+The Code is also available on GitHub here - https://github.com/iamshamikb/M5-Forecasting-Accuracy
 
 '''
 Model Performances
